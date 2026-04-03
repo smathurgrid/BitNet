@@ -1,11 +1,17 @@
-# 🚀 BitNet Deep Dive — Quantization & Systems Analysis
+# Project 4 Reverse Engineering Report
+Project Name: BitNet
+
+Repository: https://github.com/microsoft/BitNet
+
+Project Category: AI Training & Optimization
+
+Deadline: April 3rd, 2026
+
+
+## 🚀 BitNet Deep Dive — Quantization & Systems Analysis
 
 This project presents a detailed analysis of the BitNet architecture, focusing on its low-bit quantization techniques, hardware-aware optimizations, and efficient inference design.
 
-🔗 **Reference Repository:**  
-https://github.com/microsoft/BitNet
-
----
 
 ## 📌 Overview
 
